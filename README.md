@@ -1,7 +1,7 @@
 ### My name is Luiz Eduardo, i'm Software Engineer.
 
-- :office_worker: currently working as a junior backend developer.
-- :blue_heart: Techs: Java, Spring, Node.js, React, MySQL among others.
+- :office_worker: currently working as a backend developer.
+- :blue_heart: Techs: Java, Spring, Python, Node.js, MySQL among others.
 - :books: Bachelor's degree in Computer Science from UFPB
 
 <div align="right" style="display: inline_block">
