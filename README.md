@@ -15,9 +15,12 @@
 ## :gear: GitHub Analytics
 </div>
 
-<div align="center" style="display: inline_block">
+<div align="center"> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luizeeduardo-dev&show_icons=true&count_private=true&hide_border=true&title_color=000&icon_color=000&text_color=000&bg_color=41A5F5" alt="Luiz Eduardo github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeeduardo-dev&layout=compact&hide_border=true&title_color=41A5F5&text_color=41A5F5&bg_color=000" />
 
-[![Github Status](https://github-readme-stats.vercel.app/api?username=luizeeduardo-dev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/luizeeduardo-dev)              [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizeeduardo-dev&layout=compact&theme=dracula&hide=pascal)](https://github.com/luizeeduardo-dev/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luizeeduardo-dev&theme=github-dark-blue&border_radius=5&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+</div>
 
 <div align="left" style="display: inline_block">
   
