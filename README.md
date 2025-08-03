@@ -16,7 +16,8 @@
 </div>
 
 <div align="center"> 
-  <img width="49%" height="195px" src="[https://github-readme-stats.vercel.app/api?username=luizeeduardo-dev&show_icons=true&count_private=true&hide_border=true&title_color=000&icon_color=000&text_color=000&bg_color=41A5F5](https://github-readme-stats-f4yt.vercel.app/api?username=luizeeduardo-dev&show_icons=true&count_private=true&hide_border=true&title_color=000&icon_color=000&text_color=000&bg_color=41A5F5)" alt="Luiz Eduardo github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats-f4yt.vercel.app/api?username=luizeeduardo-dev&show_icons=true&count_private=true&hide_border=true&title_color=000&icon_color=000&text_color=000&bg_color=41A5F5" alt="Luiz Eduardo github stats" />
+  
   <img width="41%" height="195px" src="https://github-readme-stats-f4yt.vercel.app/api/top-langs/?username=luizeeduardo-dev&v=1&layout=compact&hide_border=true&title_color=41A5F5&text_color=41A5F5&bg_color=000" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luizeeduardo-dev&theme=github-dark-blue&border_radius=5&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
